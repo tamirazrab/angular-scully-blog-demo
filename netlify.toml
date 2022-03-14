@@ -1,6 +1,3 @@
 [build]
-  command = "npm run jam-it"
+  command = "npm run build:prod"
   publish = "dist/angular-jamstack-blog"
-
-[[plugins]]
-  package = "netlify-plugin-chromium"
