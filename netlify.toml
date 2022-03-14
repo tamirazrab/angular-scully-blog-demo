@@ -1,5 +1,5 @@
 [build]
-  command = "ng build"
+  command = "npm run jam-it"
   publish = "dist/angular-jamstack-blog"
 
 [[plugins]]
